@@ -73,3 +73,13 @@ Four case studies built on public ATP and WTA data. Each notebook starts with a 
 ## Data sources
 
 [Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject) — shot-by-shot charted ATP and WTA matches
+
+---
+
+## About me
+
+I am a tennis analyst with 8 years of experience in UX/CX research. I contribute to the Match Charting Project (credited as *Galiya G* on Tennis Abstract), work with a coach on junior players' performance.
+
+- E-mail: galimova.gaa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/galiya-galimova/
+
